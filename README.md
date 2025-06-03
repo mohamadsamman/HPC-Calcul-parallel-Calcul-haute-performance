@@ -1,2 +1,2 @@
 # HPC-Calcul-parallel-Calcul-haute-performance
-Fortran MPI 
+Fortran90 MPI 
